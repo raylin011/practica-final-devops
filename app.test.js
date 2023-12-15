@@ -1,5 +1,5 @@
 
-const app = require('./app');
+const saludar = require('./app');
 
 
 module.exports = saludar
